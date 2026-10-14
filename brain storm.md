@@ -1,0 +1,259 @@
+# jokers
+- Greedy Pareidolia: All cards with Diamond suit are considered face cards
+    - code (DONE!)
+    - art (DONE!)
+- Lusty Pareidolia: All cards with Heart suit are considered face cards
+    - code (DONE!)
+    - art (DONE!)
+- Wrathful Pareidolia: All cards with Spade suit are considered face cards
+    - code (DONE!)
+    - art (DONE!)
+- Gluttonous Pareidolia: All cards with Club suit are considered face cards
+    - code (DONE!)
+    - art (DONE!)
+- dark fountain: 1 in 5 chance to turn a random joker negative
+    - code (DONE!)
+    - art (DONE!)
+- Spellcaster: +5 Mult for every Spell used this run
+    - code (DONE!)
+    - art (DONE!)
+- Ice Tower: Each Eternal Joker gives x1.2 Mult
+    - code (DONE!)
+    - art
+- 🃏/Joker Emoji: +39 Chips, +53 Mult (as of December 2025, there are 3,953 emojis)
+    - code (DONE!)
+    - art (DONE!)
+- Juggling 4: Whenever you play a hand with 4 or more cards in it, earn $1 for each held 4
+    - code (DONE!)
+    - art
+- Sandcastle: Played cards are destroyed. When you sell this card, recreate all cards that were destroyed with Sandcastle.
+    - code (DONE!)
+    - art
+- Capitalism: +$1 for every game in your Steam library
+    - code
+    - art
+
+- ???: Played cards with Sparkle suit give +3 Mult when scored
+    - code
+    - art
+- ???: Played cards with Rainbow suit give +3 Mult when scored
+    - code
+    - art
+- ???: Played cards with Balloon suit give +3 Mult when scored
+    - code
+    - art
+- ???: Played cards with Gemstone suit give +3 Mult when scored
+    - code
+    - art
+- ???: Played cards with Butterfly suit give +3 Mult when scored
+    - code
+    - art
+- ???: Played cards with Apple suit give +3 Mult when scored
+    - code
+    - art
+- ???: [Uncommon gemstone (e.g. Bloodstone) equivalent for Sparkles]
+    - code
+    - art
+- ???: [Uncommon gemstone (e.g. Bloodstone) equivalent for Rainbows]
+    - code
+    - art
+- ???: [Uncommon gemstone (e.g. Bloodstone) equivalent for Balloons]
+    - code
+    - art
+- ???: [Uncommon gemstone (e.g. Bloodstone) equivalent for Gemstones]
+    - code
+    - art
+- ???: [Uncommon gemstone (e.g. Bloodstone) equivalent for Butterflies]
+    - code
+    - art
+- ???: [Uncommon gemstone (e.g. Bloodstone) equivalent for Apples]
+    - code
+    - art
+- ???: +?? Mult when played hand contains a Harmony
+    - code
+    - art
+- ???: +?? Chips when played hand contains a Harmony
+    - code
+    - art
+- ???: +?? Mult when played hand contains a Three Pair
+    - code
+    - art
+- ???: +?? Chips when played hand contains a Three Pair
+    - code
+    - art
+- ???: +?? Mult when played hand contains a Six of a Kind
+    - code
+    - art
+- ???: +?? Chips when played hand contains a Six of a Kind
+    - code
+    - art
+- ???: +?? Mult when played hand contains a Flush Six
+    - code
+    - art
+- ???: +?? Chips when played hand contains a Flush Six
+    - code
+    - art
+- ???: +?? Mult when played hand contains Twin Triplets
+    - code
+    - art
+- ???: +?? Chips when played hand contains Twin Triplets
+    - code
+    - art
+
+# spells
+- Testosterone: Turns up to 3 Queens into Kings
+    - code (DONE!)
+    - art (DONE!)
+- Estrogen: Turns up to 3 Kings into Queens
+    - code (DONE!)
+    - art (DONE!)
+- light glyph: increase a joker's values by 1.5x
+    - code (DONE!)
+    - art (DONE!)
+- ice glyph: add eternal to one selected joker
+    - code (DONE!)
+    - art (DONE!)
+- plant glyph: increase a consumable's values by 1.5x (CURRENTLY DISABLED)
+    - code (DONE!)
+    - art (DONE!)
+- fire glyph: remove eternal from one selected joker
+    - code (DONE!)
+    - art (DONE!)
+- invisibility glyph combo: Turns 1 Joker Negative
+    - code (DONE!)
+    - art (DONE!)
+- mist glyph combo: Create a random Negative Eternal Joker
+    - code (DONE!)
+    - art (DONE!)
+- lipu usawi: Creates 1 Tarot card and 1 Spectral card
+    - code (DONE!)
+    - art (DONE!)
+- spidery mind control: Converts up to 4 cards into 8s.
+    - code (DONE!)
+    - art (DONE!)
+- Swap: Replaces one Joker for a random one.
+    - code (DONE!)
+    - art (DONE!)
+- Scribble: Creates a random Spell (Must have room)
+    - code (DONE!)
+    - art (DONE!)
+- Forbid: Choose 3 of 5 tarot cards. For the rest of the game, they are banned
+    - code (DONE!)
+    - art (DONE!)
+
+# tarots
+- ???: Converts up to 3 selected cards to Sparkles
+    - code
+    - art
+- ???: Converts up to 3 selected cards to Rainbows
+    - code
+    - art
+- ???: Converts up to 3 selected cards to Balloons
+    - code
+    - art
+- ???: Converts up to 3 selected cards to Gemstones
+    - code
+    - art
+- ???: Converts up to 3 selected cards to Butterflies
+    - code
+    - art
+- ???: Converts up to 3 selected cards to Apples
+    - code
+    - art
+
+# planet cards
+- ???: Level up Harmony
+    - code
+    - art
+- ???: Level up Three Pair
+    - code
+    - art
+- ???: Level up Six of a Kind
+    - code
+    - art
+- ???: Level up Flush Six
+    - code
+    - art
+- ???: Level up Twin Triplets
+    - code
+    - art
+
+# blinds
+- ???: All Sparkle cards are debuffed
+    - code
+    - art
+- ???: All Rainbow cards are debuffed
+    - code
+    - art
+- ???: All Balloon cards are debuffed
+    - code
+    - art
+- ???: All Gemstone cards are debuffed
+    - code
+    - art
+- ???: All Butterfly cards are debuffed
+    - code
+    - art
+- The Scam: All Apple cards are debuffed (based on flim and flam)
+    - code
+    - art
+
+# vouchers
+- Spell Merchant (t.1): Spell cards may appear in the shop
+    - code (DONE!)
+    - art
+- Spell Writer (t.2): Spells appear 2X more frequently in the shop
+    - code (DONE!)
+    - art
+- Unicorn Horn (t.1): Set card selection limit to 6
+    - code
+    - art
+- ?? (t.2): Remove Planet cards for 5-card hands
+    - code
+    - art
+
+# decks & sleeves
+- harmony deck: 13 base ranks with all the MLP suits and 6 card selection
+    - code (DONE!)
+    - art (DONE!)
+
+# poker hands
+- harmony: a hand with one of every MLP suit (60c 6m, levels +30c +30m)
+    - code (DONE)
+    - text (DONE)
+- Three Pair: three pairs. simple (35c 3m, levels +??c +??m)
+    - code
+    - text
+- Six of a Kind: self-explanatory (??c ??m, levels +??c +??m)
+    - code
+    - text
+- Flush Six: self-explanatory (170c 17m, levels +??c +??m)
+    - code
+    - text
+- Twin Triplets: two three of a kinds (??c ??m, levels +??c +??m)
+    - code
+    - text
+
+# other
+- the MLP suits
+    - code (DONE)
+    - art (HALF DONE)
+        - could be better
+        - needs face cards!
+            - Jack of Sparkles is Spike
+            - Jack of Rainbows is Scootaloo
+            - Jack of Gemstones is Sweetie Belle
+            - Jack of Apples is Apple Bloom
+            - Jack of Butterflies is Angel Bunny
+            - Jack of Balloons is Maud Pie
+            - Queens are the mane 6
+            - King of Sparkles is Starlight
+            - King of Butterflies is Discord
+            - King of Balloons is Cheese Sandwich
+            - King of Apples is Big Mac
+            - King of Gemstones is Coco Pommel
+- somethign that makes a certain suit more likely to be drawn over others, somehow
+    - look at [this](https://balatromods.miraheze.org/wiki/Aikoyori's_Shenanigans/Jokers) specifically the Hibana card
+
+# stickers
+- Free Trial Sticker: Rental sticker, but zero sell value and doesn't start costing money for x rounds

@@ -1,0 +1,18 @@
+{
+	"id": "sharkpack",
+	"name": "Sushi's Shark Pack",
+	"author": ["sushii64"],
+	"description": "description",
+	"prefix": "shark",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "ac5dcf",
+	"badge_text_colour": "ffffff",
+	"display_name": "Shark Pack",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (>=26)",
+		"Lovely (>=0.9)",
+		"3xCredits (1.1~)"
+	]
+}
