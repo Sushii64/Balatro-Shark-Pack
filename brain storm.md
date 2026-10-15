@@ -99,6 +99,18 @@
 - ???: +?? Chips when played hand contains Twin Triplets
     - code
     - art
+- ???: +?? Mult when played hand contains Flush Twin Triplets
+    - code
+    - art
+- ???: +?? Chips when played hand contains Flush Twin Triplets
+    - code
+    - art
+- ???: +?? Mult when played hand contains Straight Harmony
+    - code
+    - art
+- ???: +?? Chips when played hand contains Straight Harmony
+    - code
+    - art
 
 # spells
 - Testosterone: Turns up to 3 Queens into Kings
@@ -177,6 +189,12 @@
 - ???: Level up Twin Triplets
     - code
     - art
+- ???: Level up Flush Twin Triplets
+    - code
+    - art
+- ???: Level up Straight Harmony
+    - code
+    - art
 
 # blinds
 - ???: All Sparkle cards are debuffed
@@ -208,7 +226,7 @@
 - Unicorn Horn (t.1): Set card selection limit to 6
     - code
     - art
-- ?? (t.2): Remove Planet cards for 5-card hands
+- Magic Mirror (t.2): Remove Planet cards for hands that have 6-card variants
     - code
     - art
 
@@ -218,21 +236,27 @@
     - art (DONE!)
 
 # poker hands
-- harmony: a hand with one of every MLP suit (60c 6m, levels +30c +30m)
+- harmony: a hand with one of every MLP suit (60c 6m, levels +30c +3m)
     - code (DONE)
     - text (DONE)
-- Three Pair: three pairs. simple (35c 3m, levels +??c +??m)
-    - code
-    - text
-- Six of a Kind: self-explanatory (??c ??m, levels +??c +??m)
-    - code
-    - text
-- Flush Six: self-explanatory (170c 17m, levels +??c +??m)
-    - code
-    - text
-- Twin Triplets: two three of a kinds (??c ??m, levels +??c +??m)
-    - code
-    - text
+- Three Pair: three pairs. simple (35c 3m, levels +30c +1m)
+    - code (DONE)
+    - text (DONE)
+- Six of a Kind: self-explanatory (135c 13m, levels +45c +2m)
+    - code (DONE)
+    - text (DONE)
+- Flush Six: self-explanatory (170c 17m, levels +60c +3m)
+    - code (DONE)
+    - text (DONE)
+- Twin Triplets: two three of a kinds (50c 5m, levels +25c +2m)
+    - code (DONE)
+    - text (DONE)
+- Straight Harmony: harmony and a straight (80c 7m, levels +30c +3m)
+    - code (DONE)
+    - text (DONE)
+- Flush Twin Triplets: two three of a kinds + flush (150c 15m, levels +45c +5m)
+    - code (DONE)
+    - text (DONE)
 
 # other
 - the MLP suits

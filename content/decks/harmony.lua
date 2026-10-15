@@ -23,5 +23,10 @@ SMODS.Back {
 				return true
             end
         }))
-    end
+    end,
+    credit = {
+        art = "The Shrimp",
+        code = "sushii64",
+        concept = "sushii64"
+    },
 }

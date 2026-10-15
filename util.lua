@@ -161,7 +161,7 @@ function SHARK_UTIL.SLIB.manipulate(card, args)
 
 	-- Where the manipulation actually occurs (called later)
 	local func = function(cardd) -- cardd is effectively exactly card
-		--hardcoded whatever
+		-- hardcoded whatever
 		if cardd.config.center.set == "Booster" then
 			args.big = false
 		end
@@ -170,6 +170,7 @@ function SHARK_UTIL.SLIB.manipulate(card, args)
 		-- make this a patch instead of hardcoding this into default Spectrallib
 		if cardd.infinifusion then
 			if cardd.config.center == cardd.infinifusion_center or cardd.config.center.key == "j_infus_fused" then
+				---@diagnostic disable-next-line: undefined-global
 				calculate_infinifusion(cardd, nil, function(i)
 					SHARK_UTIL.SLIB.manipulate(cardd, args)
 				end)

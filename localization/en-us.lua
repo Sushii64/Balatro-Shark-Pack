@@ -25,6 +25,20 @@ return {
                     "{C:shark_spell}Spells{} appear {C:attention}2X{} more",
                     "frequently in the shop"
                 },
+            },
+            v_shark_unicorn_horn = {
+                name = 'Unicorn Horn',
+                text = {
+                    "{C:attention}+1{} card selection limit",
+                },
+            },
+            v_shark_magic_mirror = {
+                name = 'Magic Mirror',
+                text = {
+                    "Remove {C:planet}Planet{} cards for hands",
+                    "that have {C:attention}6-card variants",
+                    "{C:inactive}(Two Pair, Five of a Kind, Flush Five)"
+                },
             }
         },
         Joker = {
@@ -272,15 +286,37 @@ return {
             shark_Gemstones = "Gemstone",
         },
         poker_hand_descriptions = {
-            shark_Harmony = {
-                'A hand made with one of all six MLP suits'
-            }
+            shark_harmony = {
+                'A hand made with one of every MLP suit'
+            },
+            shark_three_pair = {
+                '3 pairs of cards with different ranks'
+            },
+            shark_six_of_a_kind = {
+                '6 cards with the same rank'
+            },
+            shark_flush_six = {
+                '6 cards with the same rank and suit'
+            },
+            shark_twin_triplets = {
+                '2 different sets of 3 cards with the same rank'
+            },
+            shark_flush_twin_triplets = {
+                'Twin Triplets with all cards sharing the same suit'
+            },
+            shark_straight_harmony = {
+                '6 cards in a row (consecutive ranks) with one of every MLP suit'
+            },
         },
         poker_hands = {
-            shark_Harmony = 'Harmony'
+            shark_harmony = 'Harmony',
+            shark_three_pair = 'Three Pair',
+            shark_six_of_a_kind = 'Six of a Kind',
+            shark_flush_six = 'Flush Six',
+            shark_twin_triplets = 'Twin Triplets',
+            shark_flush_twin_triplets = 'Flush Twin Triplets',
+            shark_straight_harmony = 'Straight Harmony',
+            shark_mane_six = 'Mane Six',
         },
-        -- v_dictionary = {
-        --     a_emult = "^#1# Mult",
-        -- },
     }
 }

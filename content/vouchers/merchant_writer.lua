@@ -5,6 +5,11 @@ SMODS.Voucher {
     redeem = function(self, card)
       G.GAME.shark_spell_rate = 1.5
     end,
+    credit = {
+        art = "Placeholder",
+        code = "sushii64",
+        concept = "sushii64"
+    },
 }
 
 SMODS.Voucher {
@@ -17,4 +22,9 @@ SMODS.Voucher {
     redeem = function(self, card)
       G.GAME.shark_spell_rate = 3
     end,
+    credit = {
+        art = "Placeholder",
+        code = "sushii64",
+        concept = "sushii64"
+    },
 }
