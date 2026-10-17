@@ -180,12 +180,12 @@
 - Pandora: Level up Three Pair
     - code (DONE)
     - art (DONE)
-- ???: Level up Six of a Kind
-    - code
-    - art
-- ???: Level up Flush Six
-    - code
-    - art
+- Amphibia: Level up Six of a Kind
+    - code (DONE)
+    - art (DONE)
+- The Boiling Isles: Level up Flush Six
+    - code (DONE)
+    - art (DONE)
 - Alternia: Level up Twin Triplets
     - code (DONE)
     - art (DONE)
@@ -194,7 +194,7 @@
     - art (DONE)
 - Horsehead Nebula: Level up Straight Harmony
     - code (DONE)
-    - art
+    - art (DONE)
 
 # blinds
 - ???: All Sparkle cards are debuffed
