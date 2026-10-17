@@ -1,5 +1,5 @@
 SMODS.Consumable {
-    key = 't_pill',
+    key = 'testosterone',
     set = 'shark_Spell',
     atlas = 'SharkSpells',
     pos = { x = 5, y = 0 },

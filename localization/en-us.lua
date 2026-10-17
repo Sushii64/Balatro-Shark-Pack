@@ -282,14 +282,14 @@ return {
             },
         },
         shark_Spell = {
-            c_shark_e_pill = {
+            c_shark_estrogen = {
                 name = 'Estrogen',
                 text = {
                     'Converts up to {C:attention}#1#{}',
                     '{C:attention}King{} cards into {C:attention}Queens{}'
                 }
             },
-            c_shark_t_pill = {
+            c_shark_testosterone = {
                 name = 'Testosterone',
                 text = {
                     'Converts up to {C:attention}#1#{}',
