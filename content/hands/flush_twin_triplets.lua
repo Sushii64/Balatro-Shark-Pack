@@ -1,5 +1,6 @@
 SMODS.PokerHand {
     key = "flush_twin_triplets",
+    visible = false,
     mult = 15,
     chips = 150,
     l_mult = 5,

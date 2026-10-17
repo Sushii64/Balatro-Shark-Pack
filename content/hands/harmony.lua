@@ -1,9 +1,9 @@
 SMODS.PokerHand {
     key = "harmony",
-    mult = 6,
-    chips = 60,
+    mult = 5,
+    chips = 40,
     l_mult = 2,
-    l_chips = 20,
+    l_chips = 15,
     example = {
         { 'shark_AP_A', true },
         { 'shark_BA_K', true },

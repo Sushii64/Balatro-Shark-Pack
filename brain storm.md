@@ -174,26 +174,26 @@
     - art
 
 # planet cards
-- ???: Level up Harmony
-    - code
-    - art
-- ???: Level up Three Pair
-    - code
-    - art
+- Equus: Level up Harmony
+    - code (DONE)
+    - art (DONE)
+- Pandora: Level up Three Pair
+    - code (DONE)
+    - art (DONE)
 - ???: Level up Six of a Kind
     - code
     - art
 - ???: Level up Flush Six
     - code
     - art
-- ???: Level up Twin Triplets
-    - code
-    - art
-- ???: Level up Flush Twin Triplets
-    - code
-    - art
-- ???: Level up Straight Harmony
-    - code
+- Alternia: Level up Twin Triplets
+    - code (DONE)
+    - art (DONE)
+- Beforus: Level up Flush Twin Triplets
+    - code (DONE)
+    - art (DONE)
+- Horsehead Nebula: Level up Straight Harmony
+    - code (DONE)
     - art
 
 # blinds
@@ -236,7 +236,7 @@
     - art (DONE!)
 
 # poker hands
-- harmony: a hand with one of every MLP suit (60c 6m, levels +30c +3m)
+- harmony: a hand with one of every MLP suit (40c 5m, levels +15c +2m)
     - code (DONE)
     - text (DONE)
 - Three Pair: three pairs. simple (35c 3m, levels +30c +1m)

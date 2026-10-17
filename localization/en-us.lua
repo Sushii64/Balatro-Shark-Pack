@@ -166,6 +166,71 @@ return {
                 }
             },
         },
+        Planet = {
+            c_shark_p_equus = {
+                name = "Equus",
+                text = {
+                    "({V:1}lvl.#1#{}) Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            },
+            c_shark_p_horsehead = {
+                name = "Horsehead Nebula",
+                text = {
+                    "({V:1}lvl.#1#{}) Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            },
+            c_shark_p_alternia = {
+                name = "Alternia",
+                text = {
+                    "({V:1}lvl.#1#{}) Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            },
+            c_shark_p_beforus = {
+                name = "Beforus",
+                text = {
+                    "({V:1}lvl.#1#{}) Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            },
+            c_shark_p_pandora = {
+                name = "Pandora",
+                text = {
+                    "({V:1}lvl.#1#{}) Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            },
+            c_shark_p_boiling_isles = {
+                name = "The Boiling Isles",
+                text = {
+                    "({V:1}lvl.#1#{}) Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            },
+            c_shark_p_amphibia = {
+                name = "Amphibia",
+                text = {
+                    "({V:1}lvl.#1#{}) Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            }
+        },
         shark_Spell = {
             c_shark_e_pill = {
                 name = 'Estrogen',
@@ -268,6 +333,7 @@ return {
             spell_normal = "Spell Pack",
             spell_jumbo = "Jumbo Spell Pack",
             spell_mega = "Mega Spell Pack",
+            k_shark_nebula = "Nebula",
         },
         suits_plural = {
             shark_Sparkles = "Sparkles",

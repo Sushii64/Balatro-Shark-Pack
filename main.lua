@@ -13,7 +13,8 @@ SHARK_UTIL.load_folders({
     "content/decks",
     "content/vouchers",
     "content/hands",
-    "content/boosters"
+    "content/boosters",
+    "content/planets"
 })
 assert(SMODS.load_file("content/suits.lua"))()
 

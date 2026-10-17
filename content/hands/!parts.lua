@@ -38,7 +38,8 @@ SMODS.PokerHandPart {
                 cards[i] = card
                 has_butterfly = true
             end
-            if has_apple and has_balloon and has_butterfly and has_gemstone and has_rainbow and has_sparkle then
+            if has_apple and has_balloon and has_butterfly and has_gemstone and has_rainbow and has_sparkle 
+            and #hand >= 6 then
                 return { cards }
             end
         end

@@ -8,3 +8,4 @@ SMODS.Atlas { key = "SharkSuits", path = "SharkSuits.png", px = 71, py = 95 }
 SMODS.Atlas { key = "SharkSuitsUI", path = "SharkSuitsUI.png", px = 18, py = 18 }
 SMODS.Atlas { key = "SharkDecks", path = "SharkDecks.png", px = 71, py = 95 }
 SMODS.Atlas { key = "SharkVouchers", path = "SharkVouchers.png", px = 71, py = 95 }
+SMODS.Atlas { key = "SharkPlanets", path = "SharkPlanets.png", px = 71, py = 95 }
