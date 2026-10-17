@@ -231,6 +231,56 @@ return {
                 },
             }
         },
+        Tarot = {
+            c_shark_t_magic = {
+                name = "Magic",
+                text = {
+                    "Converts up to",
+                    "{C:attention}#1#{} selected cards",
+                    "to {V:1}#2#{}",
+                },
+            },
+            c_shark_t_generosity = {
+                name = "Generosity",
+                text = {
+                    "Converts up to",
+                    "{C:attention}#1#{} selected cards",
+                    "to {V:1}#2#{}",
+                },
+            },
+            c_shark_t_honesty = {
+                name = "Honesty",
+                text = {
+                    "Converts up to",
+                    "{C:attention}#1#{} selected cards",
+                    "to {V:1}#2#{}",
+                },
+            },
+            c_shark_t_kindness = {
+                name = "Kindness",
+                text = {
+                    "Converts up to",
+                    "{C:attention}#1#{} selected cards",
+                    "to {V:1}#2#{}",
+                },
+            },
+            c_shark_t_laughter = {
+                name = "Laughter",
+                text = {
+                    "Converts up to",
+                    "{C:attention}#1#{} selected cards",
+                    "to {V:1}#2#{}",
+                },
+            },
+            c_shark_t_loyalty = {
+                name = "Loyalty",
+                text = {
+                    "Converts up to",
+                    "{C:attention}#1#{} selected cards",
+                    "to {V:1}#2#{}",
+                },
+            },
+        },
         shark_Spell = {
             c_shark_e_pill = {
                 name = 'Estrogen',

@@ -154,23 +154,23 @@
     - art (DONE!)
 
 # tarots
-- ???: Converts up to 3 selected cards to Sparkles
-    - code
+- Magic: Converts up to 3 selected cards to Sparkles
+    - code (DONE)
     - art
-- ???: Converts up to 3 selected cards to Rainbows
-    - code
+- Loyalty: Converts up to 3 selected cards to Rainbows
+    - code (DONE)
     - art
-- ???: Converts up to 3 selected cards to Balloons
-    - code
+- Laughter: Converts up to 3 selected cards to Balloons
+    - code (DONE)
     - art
-- ???: Converts up to 3 selected cards to Gemstones
-    - code
+- Generosity: Converts up to 3 selected cards to Gemstones
+    - code (DONE)
     - art
-- ???: Converts up to 3 selected cards to Butterflies
-    - code
+- Kindness: Converts up to 3 selected cards to Butterflies
+    - code (DONE)
     - art
-- ???: Converts up to 3 selected cards to Apples
-    - code
+- Honesty: Converts up to 3 selected cards to Apples
+    - code (DONE)
     - art
 
 # planet cards
@@ -224,10 +224,10 @@
     - code (DONE!)
     - art
 - Unicorn Horn (t.1): Set card selection limit to 6
-    - code
+    - code (DONE!)
     - art
 - Magic Mirror (t.2): Remove Planet cards for hands that have 6-card variants
-    - code
+    - code (DONE!)
     - art
 
 # decks & sleeves
