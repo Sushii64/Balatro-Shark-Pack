@@ -4,7 +4,7 @@ SMODS.Consumable {
     cost = 3,
     atlas = "SharkPlanets",
     pos = { x = 1, y = 1 },
-    config = { hand_type = 'shark_harmony' },
+    config = { hand_type = 'shark_harmony', softlock = false and G.GAME.selected_back_key.key == "b_shark_harmony" or true },
     loc_vars = function(self, info_queue, card)
         return {
             vars = {

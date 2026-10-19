@@ -1,7 +1,7 @@
 SMODS.Back {
     key = "harmony",
     atlas = "SharkDecks",
-    pos = { x = 1, y = 0 },
+    pos = { x = 0, y = 0 },
     config = { voucher = 'v_shark_unicorn_horn' },
     apply = function(self, back)
         if not G.GAME.shark_forbidden_keys then G.GAME.shark_forbidden_keys = {} end

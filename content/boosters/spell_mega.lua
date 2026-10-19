@@ -12,7 +12,6 @@ SMODS.Booster {
         local cfg = (card and card.ability) or self.config
         return {
             vars = { cfg.choose, cfg.extra },
-            key = self.key:sub(1, -3),
         }
     end,
     ease_background_colour = function(self)

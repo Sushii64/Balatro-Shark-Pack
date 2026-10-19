@@ -25,13 +25,10 @@
     - art (DONE!)
 - Juggling 4: Whenever you play a hand with 4 or more cards in it, earn $1 for each held 4
     - code (DONE!)
-    - art
+    - art (DONE!)
 - Sandcastle: Played cards are destroyed. When you sell this card, recreate all cards that were destroyed with Sandcastle.
     - code (DONE!)
-    - art
-- Capitalism: +$1 for every game in your Steam library
-    - code
-    - art
+    - art (DONE!)
 
 - ???: Played cards with Sparkle suit give +3 Mult when scored
     - code
@@ -140,7 +137,7 @@
 - lipu usawi: Creates 1 Tarot card and 1 Spectral card
     - code (DONE!)
     - art (DONE!)
-- spidery mind control: Converts up to 4 cards into 8s.
+- scorpio: Converts up to 4 cards into 8s.
     - code (DONE!)
     - art (DONE!)
 - Swap: Replaces one Joker for a random one.
